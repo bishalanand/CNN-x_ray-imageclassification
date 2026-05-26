@@ -151,14 +151,9 @@ Open it in your browser.
 
 Add screenshots of your application inside the `screenshots/` folder.
 
-Example:
-
-```md
-![Home Page](screenshots/home.png)
-![Prediction Result](screenshots/result.png)
-```
-
----
+![Home page](Screenshots/home.png)
+![Upload](Screenshots/upload.png)
+![Predict](Screenshots/predict.png)
 
 ## ⚠️ Disclaimer
 This project is developed for **educational and research purposes only** and should **not be used as a replacement for professional medical diagnosis**.
