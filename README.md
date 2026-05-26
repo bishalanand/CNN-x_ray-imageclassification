@@ -65,21 +65,7 @@ git clone <your-repository-link>
 cd X-ray-Pneumonia-Detection
 ```
 
-### 2. Create Virtual Environment (Optional but Recommended)
-
-#### Windows
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-#### Linux / Mac
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
