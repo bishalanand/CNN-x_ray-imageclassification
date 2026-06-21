@@ -61,7 +61,7 @@ Benefits:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-link>
+git clone <[your-repository-link](https://github.com/bishalanand/CNN-x_ray-imageclassification)>
 cd X-ray-Pneumonia-Detection
 ```
 
